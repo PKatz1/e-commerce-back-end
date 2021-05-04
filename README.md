@@ -6,18 +6,10 @@
   
 💻 Below is the gif showing the functionality of the application:
   
-![DB Setup and Start](./animations/DB%20setup%20and%20start.gif)
+![DB Instllation](./animations/installation.gif)
 
-![GET All](./animations/GET%20all.gif)
+![DB Usage](./animations/usage.gif)
 
-![GET All by ID](./animations/GET%20by%20ID.gif)
-
-![POST PUT DELETE Products and Tags](./animations/POST%20PUT%20DELETE%20Tags%20and%20Products.gif)
-
-![POST PUT DELETE Categories](./animations/POST%20PUT%20DELETE%20Categories.gif)
-  
-🎥 The full movie file showing functionality of the application can be found in the animations directory
-  
 ## User Story
   
 ```
