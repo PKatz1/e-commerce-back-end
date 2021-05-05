@@ -10,6 +10,7 @@
 
 ![DB Usage](./animations/usage.gif)
 
+![Post & Get Examples](./animations/PostGet.gif)
 ## User Story
   
 ```
